@@ -33,9 +33,3 @@ O App foi entregue com a interface já toda desenvolvida e durante o módulo, to
   <img align="center" alt="Android" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
  </div>
 
-<br>
-
----
-
-<div id="footer" align="center"><a href="https://www.linkedin.com/in/matheus-andrade23/" target="_blank"><img src="https://imgields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:matheusandrade.ma2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></div>
