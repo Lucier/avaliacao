@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ignitequiz",
-    "slug": "ignitequiz",
+    "name": "avaliacao",
+    "slug": "avaliacao",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,6 +28,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "dbbbe90f-4f4b-4b61-a504-f1a96dd73e06"
+      }
     }
   }
 }
